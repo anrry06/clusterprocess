@@ -2,6 +2,8 @@
 
 Process an array on different clusters
 
+[![NPM](https://nodei.co/npm/clusterprocess.png)](https://nodei.co/npm/clusterprocess/)
+
 ##Example
 
 ```javascript
