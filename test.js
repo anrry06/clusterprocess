@@ -21,7 +21,7 @@ var options = {
         process.exit();
     }
 };
-console.log('dddddddddddddok');
+
 new clusterprocess(options);
 
 //1 : 0.429

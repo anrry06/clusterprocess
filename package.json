@@ -1,7 +1,7 @@
 {
-  "name": "@anrry/clusterprocess",
+  "name": "clusterprocess",
   "version": "1.0.0",
-  "description": "Process an array on different cluster",
+  "description": "Process an array on different clusters",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
